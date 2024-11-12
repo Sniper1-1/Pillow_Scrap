@@ -2,7 +2,7 @@
 	"name":"Pillow_Scrap",
 	"version_number": "0.1.0",
 	"website_url":"https://github.com/Sniper1-1/Pillow_Scrap.git",
-	"description":"Text.",
+	"description":"Adds a pillow scrap to Lethal Company.",
 	"dependencies":[
 		"IAmBatby-LethalLevelLoader-1.3.10"
 	]
