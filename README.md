@@ -4,7 +4,7 @@ Adds a pillow scrap to Lethal Company. ([Discord link](https://discord.com/chann
 
 
 <details>
-<summary>Keyboard</summary>
+<summary>Pillow details</summary>
 
 > Weight: 1 <br>
 > Max value: 32 <br>
